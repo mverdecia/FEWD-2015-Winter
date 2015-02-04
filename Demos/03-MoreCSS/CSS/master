@@ -1,0 +1,12 @@
+/*
+.logo {
+	background: url(/images/logo.png) no-repeat
+center;
+	display: block;
+	height: 90px;
+	width: 280px;
+	text-indent: 280px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+*/
